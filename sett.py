@@ -1,7 +1,9 @@
-token = 'bigdateros'
+token = 'replybot'
 
-whatsapp_token = 'EAAEpadzUgZCkBO5YPfM7xlCjH4WloLdnuHw3Ghb0MJZA0IOHiUJYSt3Yb7IgxWELiyKIycKyjiFHsspgzXAnuSFecMUQ9SHE4owbuZA8p9iF2MLmbiOkcyVRuEC03q679Dp9PRhmtJFNuEW88lcdE2bTWoAf18MapbEHc9DSUVtrv22GJWhAGWqq1quZBz7hcsruMdZAV9wtBspw8VP1D1548b2jGEOcZAZAsuiSJgZD'
+whatsapp_token = 'EAAEpadzUgZCkBO7uqH0bnei4WKaHBuIpEAJByQlbGLjf5o71pPjZA7EqHHkc203YIJ76nZBCHfmLHZAC5E4ZAd0tLWQyzffLvSndSvIZCzy5LIAn3uytqZCZAndvhLcZAmV4EnnRWbGOERbRNGDovO3G7dpZBMwwgHVu1Og74c00ivvwat7maaswyLEfEdmz66eujtjOZAV32ovHbyyem3sjYlZC6vYBDNZA8sZBGxqLDpnGQZD'
+
 whatsapp_url = 'https://graph.facebook.com/v17.0/156524200875526/messages'
+
 
 stickers = {
     "poyo_feliz": 984778742532668,

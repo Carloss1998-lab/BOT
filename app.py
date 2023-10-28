@@ -4,6 +4,11 @@ import services
 
 app = Flask(__name__)
 
+@app.route('/')
+def  home():
+    return 'Hello everyone'
+
+
 @app.route('/bienvenido', methods=['GET'])
 def  bienvenido():
     return 'Hola mundo bigdateros, desde Flask'
